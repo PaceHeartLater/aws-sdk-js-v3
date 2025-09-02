@@ -967,7 +967,7 @@
         "EngineAttributes": {
           "target": "com.amazonaws.opsworkscm#EngineAttributes",
           "traits": {
-            "smithy.api#documentation": "<p>Attributes specific to the node association. \n      In Puppet, the attibute PUPPET_NODE_CERT contains the signed certificate (the result of the CSR).\n    </p>"
+            "smithy.api#documentation": "<p>Attributes specific to the node association. \n      In Puppet, the attribute PUPPET_NODE_CERT contains the signed certificate (the result of the CSR).\n    </p>"
           }
         }
       }

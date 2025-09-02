@@ -266,7 +266,7 @@
         }
       ],
       "traits": {
-        "smithy.api#documentation": "<p>Returns a list of attribute values. Attibutes are similar to the details \n          in a Price List API offer file. For a list of available attributes, see \n         <a href=\"https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/reading-an-offer.html#pps-defs\">Offer File Definitions</a>\n         in the <a href=\"https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-what-is.html\">AWS Billing and Cost Management User Guide</a>.</p>",
+        "smithy.api#documentation": "<p>Returns a list of attribute values. attributes are similar to the details \n          in a Price List API offer file. For a list of available attributes, see \n         <a href=\"https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/reading-an-offer.html#pps-defs\">Offer File Definitions</a>\n         in the <a href=\"https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-what-is.html\">AWS Billing and Cost Management User Guide</a>.</p>",
         "smithy.api#paginated": {
           "inputToken": "NextToken",
           "outputToken": "NextToken",

@@ -1420,7 +1420,7 @@ export interface DescribeNodeAssociationStatusResponse {
 
   /**
    * <p>Attributes specific to the node association.
-   *       In Puppet, the attibute PUPPET_NODE_CERT contains the signed certificate (the result of the CSR).
+   *       In Puppet, the attribute PUPPET_NODE_CERT contains the signed certificate (the result of the CSR).
    *     </p>
    */
   EngineAttributes?: EngineAttribute[];
